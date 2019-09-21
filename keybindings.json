@@ -1,0 +1,15 @@
+// Place your key bindings in this file to overwrite the defaults
+[
+    {
+        "key": "ctrl+`",
+        "command": "macros.terminal"
+    },
+    {
+        "key": "ctrl+shift+`",
+        "command": "macros.exit_terminal"
+    },
+    {
+        "key": "[IntlBackslash]",
+        "command": "toggleVim"
+    }
+]

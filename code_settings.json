@@ -1,0 +1,30 @@
+{
+    "terminal.integrated.scrollback": 10000,
+    "files.trimTrailingWhitespace": true,
+    "files.insertFinalNewline": false,
+    "files.trimFinalNewlines": true,
+    "window.zoomLevel": 0,
+    "explorer.confirmDelete": false,
+    "editor.renderWhitespace": "all",
+    "workbench.sideBar.location": "left",
+    "editor.minimap.enabled": false,
+    "macros": {
+        "terminal": [
+            "workbench.action.toggleMaximizedPanel",
+            "workbench.action.terminal.focus"
+        ],
+        "code": [
+            "workbench.action.toggleMaximizedPanel",
+            "workbench.action.focusFirstEditorGroup"
+        ],
+        "exit_terminal": [
+            "workbench.action.closePanel",
+            "workbench.action.openEditorAtIndex1"
+        ]
+    },
+    "breadcrumbs.enabled": true,
+    "explorer.confirmDragAndDrop": false,
+    "gitlens.defaultDateShortFormat": "DD MMM YYYY",
+    "gitlens.hovers.currentLine.over": "line",
+    "editor.lineNumbers": "relative"
+}
